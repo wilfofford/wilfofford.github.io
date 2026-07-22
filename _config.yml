@@ -26,11 +26,12 @@ author:
   avatar           : "DSCF8213.JPG"
   name             : "Wilf"
   pronouns         : "they/he"  
-  bio              : "Ph.D. Candidate at University of Cambridge"
-  location         : "Cambridge, UK"
-  employer         : "Department of Computer Science and Technology"
+  bio              : "Ph.D. Candidate,
+  King's College,
+  location         : "University of Cambridge"
+  employer         : "CST Department"
   uri              : # URL
-  email            : "wgbo at cam dot ac dot uk" 
+  email            : "wgbo@cam.ac.uk" 
 
   # Academic websites
   academia         : # URL
