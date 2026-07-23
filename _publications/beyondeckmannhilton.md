@@ -2,7 +2,7 @@
 title: "Beyond Eckmann-Hilton: Commutativity in Higher Categories"
 collection: publications
 category: preprints
-permalink: /publication/naturalityforhigherdimensionalpathtypes
+permalink: /publication/beyondeckmannhilton
 authors: 'Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary'
 excerpt: 'We show that in a weak globular ω-category, all composition operations are equivalent and commutative for cells with sufficiently degenerate boundary, which can be considered a higher-dimensional generalisation of the Eckmann-Hilton argument.'
 date: 2025-01-27
