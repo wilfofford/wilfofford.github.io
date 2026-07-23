@@ -3,6 +3,7 @@ title: "Naturality for higher-dimensional path types"
 collection: publications
 category: conferences
 permalink: /publication/naturalityforhigherdimensionalpathtypes
+authors: 'Thibaut Benjamin, Ioannis Markakis, Wilfred Offord, Chiara Sarti, Jamie Vicary'
 excerpt: 'We define a naturality construction for the operations of weak ω-categories, as a meta-operation in a dependent type theory.'
 date: 2025-06-23
 venue: 'Logic in Computer Science (LICS) 2025'
