@@ -7,5 +7,4 @@ excerpt: 'We define a naturality construction for the operations of weak ω-cate
 date: 2025-06-23
 venue: 'Logic in Computer Science (LICS) 2025'
 paperurl: 'https://ieeexplore.ieee.org/document/11186346'
-citation: 'T. Benjamin, I. Markakis, W. Offord, C. Sarti and J. Vicary, &quot;Naturality for higher-dimensional path types,&quot <i>40th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), Singapore, Singapore, 2025</i>, pp. 275-288, doi: 10.1109/LICS65433.2025.00028.'
 ---
